@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- =========================
+     HERO SECTION
+========================= -->
 
-<!--
-**JohnChristopher777/JohnChristopher777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm John Christopher C</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Cybersecurity Builder • Computer Science Engineer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building intelligent systems that solve real-world problems through AI, cybersecurity, automation, and modern web technologies.
+</p>
+
+---
+
+## 🚀 About Me
+
+🎓 Computer Science and Engineering Graduate
+
+💻 Full Stack Developer with experience in React, TypeScript, FastAPI, Firebase, and modern web technologies
+
+🤖 Passionate about Artificial Intelligence, Cybersecurity, Machine Learning, and Intelligent Systems
+
+🌍 Interested in building scalable solutions that create real-world impact
+
+📚 Constant learner exploring:
+- Artificial Intelligence
+- Cybersecurity & OSINT
+- Cloud Computing
+- System Design
+- Machine Learning
+- Modern Web Technologies
+
+---
+
+## 🏆 Current Focus
+
+```text
+[████████████████████░░] Full Stack Development
+[██████████████████░░░░] Artificial Intelligence
+[█████████████████░░░░░] Cybersecurity & OSINT
+[████████████████░░░░░░] Machine Learning
+[███████████████░░░░░░░] Cloud & DevOps
