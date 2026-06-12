@@ -26,10 +26,10 @@
 ```yaml
 Name        : John Christopher C
 Role        : Full Stack Developer
-Location    : Tuticorin, Tamil Nadu, India
-Education   : B.E. Computer Science @ RIT (2023-2027), CGPA 8.2
-Interests   : AI · Cybersecurity · Real-Time Systems · XR/3D Web
-Quote       : "As long as I live, I have infinite chances"
+Location    : Tamil Nadu, India
+Education   : B.E Computer Science & Engineering
+Speciality  : AI Applications • Cybersecurity • Full Stack Development
+Focus       : Building practical software systems
 ```
 
 - ![work](https://img.shields.io/badge/-Currently-brightgreen?style=flat-square) Working as **Web Developer @ Thozhan Technician Services**
@@ -218,13 +218,9 @@ Quote       : "As long as I live, I have infinite chances"
 
 ---
 
-## <img src="https://img.shields.io/badge/-GitHub%20Trophies-FFD700?style=flat-square&logo=github&logoColor=black" height="28"/> GitHub Trophies
+## Contribution Activity
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JohnChristopher777&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnChristopher777&theme=tokyonight&hide_border=true" />
 
 ---
 
@@ -261,7 +257,7 @@ Quote       : "As long as I live, I have infinite chances"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johnchristopher777-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnchristopher777)
 [![GitHub](https://img.shields.io/badge/GitHub-JohnChristopher777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnChristopher777)
 [![LeetCode](https://img.shields.io/badge/LeetCode-JohnChristopher-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JohnChristopher/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%209952300899-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919952300899)
+
 
 </div>
 
