@@ -43,7 +43,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="22" color="blue"/> Tech Stack
+## <img src="https://cdn.simpleicons.org/stackshare/58A6FF" height="24"/> Tech Stack Tech Stack
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://img.shields.io/badge/-Featured%20Projects-FF6B6B?style=flat-square&logo=rocket&logoColor=white" height="28"/> Featured Projects
+## <img src="https://cdn.simpleicons.org/github/58A6FF" height="24"/> Featured Projects
 
 <div align="center">
 
@@ -146,7 +146,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://img.shields.io/badge/-Work%20Experience-0D1117?style=flat-square&logo=briefcase&logoColor=white" height="28"/> Work Experience
+## <img src="https://cdn.simpleicons.org/briefcase/58A6FF" height="24"/> Experience
 
 <div align="center">
 
@@ -199,7 +199,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://img.shields.io/badge/-GitHub%20Stats-58A6FF?style=flat-square&logo=github&logoColor=white" height="28"/> GitHub Stats
+## <img src="https://cdn.simpleicons.org/github/58A6FF" height="24"/> GitHub Statistics
 
 <div align="center">
 
@@ -218,13 +218,13 @@ Focus       : Building practical software systems
 
 ---
 
-## Contribution Activity
+## ## <img src="https://cdn.simpleicons.org/openaigym/58A6FF" height="24"/> Contribution Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnChristopher777&theme=tokyonight&hide_border=true" />
 
 ---
 
-## <img src="https://img.shields.io/badge/-Education-3776AB?style=flat-square&logo=graduation-cap&logoColor=white" height="28"/> Education
+## ## <img src="https://cdn.simpleicons.org/googleclassroom/58A6FF" height="24"/> Education
 
 <div align="center">
 
@@ -238,7 +238,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://img.shields.io/badge/-Languages-orange?style=flat-square&logo=googletranslate&logoColor=white" height="28"/> Languages
+## <img src="https://cdn.simpleicons.org/googletranslate/58A6FF" height="24"/> Languages
 
 <div align="center">
 
@@ -247,9 +247,25 @@ Focus       : Building practical software systems
 
 </div>
 
+<br>
+
+<div align="center">
+
+**Currently Exploring**
+
+![Japanese](https://img.shields.io/badge/Japanese-Learning-DC143C?style=for-the-badge)
+![German](https://img.shields.io/badge/German-Learning-000000?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Learning-0055A4?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish-Learning-AA151B?style=for-the-badge)
+![Italian](https://img.shields.io/badge/Italian-Learning-009246?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Learning-FF9933?style=for-the-badge)
+
+</div>
+
+
 ---
 
-## <img src="https://img.shields.io/badge/-Connect%20With%20Me-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/> Connect With Me
+## <img src="https://cdn.simpleicons.org/linktree/58A6FF" height="24"/> Connect With Me
 
 <div align="center">
 
@@ -272,6 +288,7 @@ Focus       : Building practical software systems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*"As long as I live, I have infinite chances" — John Christopher C*
+"It is a long-stretch and tough journey, but definitely one worth remembering."
+— John Christopher C
 
 </div>
