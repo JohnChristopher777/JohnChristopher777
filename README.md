@@ -43,7 +43,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/> Tech Stack
+## <img src="https://cdn.simpleicons.org/react/58A6FF" width="22"/> Tech Stack
 
 <div align="center">
 
@@ -62,6 +62,7 @@ Focus       : Building practical software systems
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **<img src="https://img.shields.io/badge/--FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20"/> Databases & Cloud**
 
@@ -81,7 +82,6 @@ Focus       : Building practical software systems
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
@@ -199,7 +199,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/181717" height="22"/> GitHub Statistics
+## <img src="https://cdn.simpleicons.org/github/58A6FF" height="22"/> GitHub Statistics
 
 <div align="center">
 
