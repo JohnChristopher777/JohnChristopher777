@@ -19,7 +19,7 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-About%20Me-58A6FF?style=flat-square&logo=person&logoColor=white" height="28"/> About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/>  About Me
 
 <img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
