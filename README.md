@@ -19,7 +19,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/>  About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/> About Me
 
 <img alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
@@ -43,7 +43,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/stackshare/58A6FF" height="24"/> Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22"/> Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Focus       : Building practical software systems
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
-**<img src="https://img.shields.io/badge/--007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="20"/> Tools & Platforms**
+**<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="20"/> Tools & Platforms**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -87,7 +87,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/laptop/58A6FF" height="24"/> Featured Projects
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> Featured Projects
 
 <div align="center">
 
@@ -146,7 +146,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/briefcase/58A6FF" height="24"/> Experience
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/> Experience
 
 <div align="center">
 
@@ -199,12 +199,14 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/58A6FF" height="24"/> GitHub Statistics
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22"/> GitHub Statistics
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=JohnChristopher777&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnChristopher777&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
+</div>
 
 <br/>
 
@@ -219,11 +221,11 @@ Focus       : Building practical software systems
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnChristopher777&theme=tokyo-night&hide_border=true&area=true)](https://github.com/JohnChristopher777)
 
-</div>
+
 
 ---
 
-## <img src="https://cdn.simpleicons.org/googleclassroom/58A6FF" height="24"/> Education
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22"/> Education
 
 <div align="center">
 
@@ -237,7 +239,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/languagetool/58A6FF" height="24"/> Languages
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="22"/> Languages
 
 <div align="center">
 
@@ -257,7 +259,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/linktree/58A6FF" height="24"/> Connect With Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22"/> Connect With Me
 
 <div align="center">
 
