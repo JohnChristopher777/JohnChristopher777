@@ -19,7 +19,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/> About Me
+## <img src="https://cdn.simpleicons.org/devdotto/58A6FF" width="22"/> About Me
 
 <img alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
@@ -75,7 +75,7 @@ Focus       : Building practical software systems
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
-** <img src="https://cdn.simpleicons.org/gnubash/58A6FF" height="22"/> Tools & Platforms**
+**<img src="https://cdn.simpleicons.org/gnubash/58A6FF" height="22"/> Tools & Platforms**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -225,7 +225,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/readthedocs/58A6FF" height="22"/> Education
+## <img src="https://cdn.simpleicons.org/readdotcv/58A6FF" height="22"/> Education
 
 <div align="center">
 
@@ -259,7 +259,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/contactlesspayment/58A6FF" height="22"/> Connect With Me
+## <img src="https://cdn.simpleicons.org/gitconnected/58A6FF" height="22"/> Connect With Me
 
 <div align="center">
 
