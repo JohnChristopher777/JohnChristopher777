@@ -43,7 +43,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://img.shields.io/badge/-Tech%20Stack-0D1117?style=flat-square&logo=stackshare&logoColor=white" height="28"/> Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="22"/> Tech Stack
 
 <div align="center">
 
