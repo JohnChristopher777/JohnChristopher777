@@ -21,7 +21,7 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="22"/>  About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+<img alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
 ```yaml
 Name        : John Christopher C
@@ -43,11 +43,11 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/stackshare/58A6FF" height="24"/> Tech Stack Tech Stack
+## <img src="https://cdn.simpleicons.org/stackshare/58A6FF" height="24"/> Tech Stack
 
 <div align="center">
 
-**<img src="https://img.shields.io/badge/-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/> Frontend**
+**<img src="https://img.shields.io/badge/--E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/> Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,26 +56,26 @@ Focus       : Building practical software systems
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**<img src="https://img.shields.io/badge/-Backend%20%26%20APIs-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/> Backend & APIs**
+**<img src="https://img.shields.io/badge/--339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/> Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**<img src="https://img.shields.io/badge/-Databases%20%26%20Cloud-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20"/> Databases & Cloud**
+**<img src="https://img.shields.io/badge/--FFCA28?style=flat-square&logo=firebase&logoColor=black" height="20"/> Databases & Cloud**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**<img src="https://img.shields.io/badge/-AI%20%2F%20ML%20Libraries-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="20"/> AI / ML Libraries**
+**<img src="https://img.shields.io/badge/--5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="20"/> AI / ML Libraries**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
-**<img src="https://img.shields.io/badge/-Tools%20%26%20Platforms-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="20"/> Tools & Platforms**
+**<img src="https://img.shields.io/badge/--007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="20"/> Tools & Platforms**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -87,7 +87,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/github/58A6FF" height="24"/> Featured Projects
+## <img src="https://cdn.simpleicons.org/laptop/58A6FF" height="24"/> Featured Projects
 
 <div align="center">
 
@@ -208,7 +208,7 @@ Focus       : Building practical software systems
 
 <br/>
 
-## <img src="https://cdn.simpleicons.org/git/58A6FF" height="22"/> Contribution Activity
+## <img src="https://cdn.simpleicons.org/git/58A6FF" height="24"/> Contribution Activity
 
 <div align="center">
 
@@ -237,7 +237,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://img.shields.io/badge/-Languages-orange?style=flat-square&logo=googletranslate&logoColor=white" height="28"/> Languages
+## <img src="https://cdn.simpleicons.org/languagetool/58A6FF" height="24"/> Languages
 
 <div align="center">
 
@@ -255,7 +255,6 @@ Focus       : Building practical software systems
 
 </div>
 
-
 ---
 
 ## <img src="https://cdn.simpleicons.org/linktree/58A6FF" height="24"/> Connect With Me
@@ -266,7 +265,6 @@ Focus       : Building practical software systems
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-johnchristopher777-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnchristopher777)
 [![GitHub](https://img.shields.io/badge/GitHub-JohnChristopher777-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnChristopher777)
 [![LeetCode](https://img.shields.io/badge/LeetCode-JohnChristopher-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JohnChristopher/)
-
 
 </div>
 
@@ -283,7 +281,7 @@ Focus       : Building practical software systems
 
 <br />
 
-"It is a long-stretch and tough journey, but definitely one worth remembering."
-- John Christopher C
+"It is a long-stretch and tough journey, but definitely one worth remembering." 
+— John Christopher C
 
 </div>
