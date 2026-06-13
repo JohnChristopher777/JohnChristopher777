@@ -43,7 +43,7 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="22" colour="blue"/> Tech Stack
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="22" color="blue"/> Tech Stack
 
 <div align="center">
 
