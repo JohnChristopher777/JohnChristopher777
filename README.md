@@ -238,27 +238,21 @@ Focus       : Building practical software systems
 
 ---
 
-## <img src="https://cdn.simpleicons.org/googletranslate/58A6FF" height="24"/> Languages
+## <img src="https://img.shields.io/badge/-Languages-orange?style=flat-square&logo=googletranslate&logoColor=white" height="28"/> Languages
 
 <div align="center">
 
 ![Tamil](https://img.shields.io/badge/Tamil-Native-FF6B00?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Fluent-0077B5?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Proficient-0077B5?style=for-the-badge)
 
-</div>
+<br/>
 
-<br>
-
-<div align="center">
-
-**Currently Exploring**
-
-![Japanese](https://img.shields.io/badge/Japanese-Learning-DC143C?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-Learning-EA4335?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-Learning-000000?style=for-the-badge)
 ![French](https://img.shields.io/badge/French-Learning-0055A4?style=for-the-badge)
 ![Spanish](https://img.shields.io/badge/Spanish-Learning-AA151B?style=for-the-badge)
 ![Italian](https://img.shields.io/badge/Italian-Learning-009246?style=for-the-badge)
-![Hindi](https://img.shields.io/badge/Hindi-Learning-FF9933?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Basic-FF9933?style=for-the-badge)
 
 </div>
 
