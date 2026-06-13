@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=John%20Christopher%20C&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=John%20Christopher%20C&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Systems%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Powered+Application+Builder;Cybersecurity+Systems+Developer;React+%7C+Node.js+%7C+Python+%7C+FastAPI;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Powered+Application+Developer;Cybersecurity+Systems+Developer;React+%7C+Node.js+%7C+Python+%7C+FastAPI;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 <br/>
 
@@ -208,8 +208,13 @@ Focus       : Building practical software systems
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnChristopher777&theme=tokyonight&hide_border=true" height="170"/>
+## <img src="https://cdn.simpleicons.org/git/58A6FF" height="22"/> Contribution Activity
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnChristopher777&theme=tokyonight" />
+
+</div>
 <br/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnChristopher777&theme=tokyo-night&hide_border=true&area=true)](https://github.com/JohnChristopher777)
@@ -218,13 +223,7 @@ Focus       : Building practical software systems
 
 ---
 
-## ## <img src="https://cdn.simpleicons.org/openaigym/58A6FF" height="24"/> Contribution Activity
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnChristopher777&theme=tokyonight&hide_border=true" />
-
----
-
-## ## <img src="https://cdn.simpleicons.org/googleclassroom/58A6FF" height="24"/> Education
+## <img src="https://cdn.simpleicons.org/googleclassroom/58A6FF" height="24"/> Education
 
 <div align="center">
 
@@ -247,12 +246,12 @@ Focus       : Building practical software systems
 
 <br/>
 
-![Japanese](https://img.shields.io/badge/Japanese-Learning-EA4335?style=for-the-badge)
-![German](https://img.shields.io/badge/German-Learning-000000?style=for-the-badge)
-![French](https://img.shields.io/badge/French-Learning-0055A4?style=for-the-badge)
-![Spanish](https://img.shields.io/badge/Spanish-Learning-AA151B?style=for-the-badge)
-![Italian](https://img.shields.io/badge/Italian-Learning-009246?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-Basic-EA4335?style=for-the-badge)
 ![Hindi](https://img.shields.io/badge/Hindi-Basic-FF9933?style=for-the-badge)
+![German](https://img.shields.io/badge/German-Beginner-000000?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Beginner-0055A4?style=for-the-badge)
+![Spanish](https://img.shields.io/badge/Spanish-Beginner-AA151B?style=for-the-badge)
+![Italian](https://img.shields.io/badge/Italian-Beginner-009246?style=for-the-badge)
 
 </div>
 
@@ -282,7 +281,9 @@ Focus       : Building practical software systems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
+<br />
+
 "It is a long-stretch and tough journey, but definitely one worth remembering."
-— John Christopher C
+- John Christopher C
 
 </div>
