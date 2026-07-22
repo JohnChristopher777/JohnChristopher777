@@ -21,16 +21,11 @@
 
 ## <img src="https://cdn.simpleicons.org/devdotto/58A6FF" width="22"/> About Me
 
-<img alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+<img align = "right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
-```yaml
-Name        : John Christopher C
-Role        : Full Stack Developer
-Location    : Tamil Nadu, India
-Education   : B.E Computer Science & Engineering
-Speciality  : AI Applications • Cybersecurity • Full Stack Development
-Focus       : Building practical software systems
-```
+<p>
+I'm John Christopher, a Full Stack Developer passionate about building software that solves real-world problems through thoughtful engineering and continuous learning. Whether it's designing modern web applications, exploring AI-powered systems, or understanding cybersecurity from both an attacker's and defender's perspective, I'm driven by curiosity and the pursuit of better solutions. I value clean architecture, secure-by-design development, and technology that creates meaningful impact while constantly exploring new technologies, languages, cultures, and ideas that broaden the way I think and build.
+</p>
 
 - ![work](https://img.shields.io/badge/-Currently-brightgreen?style=flat-square) Working as **Web Developer @ Thozhan Technician Services**
 - ![intern](https://img.shields.io/badge/-Former-blue?style=flat-square) **Web Development Intern @ Madras MindWorks Pvt Ltd**
@@ -251,9 +246,6 @@ Focus       : Building practical software systems
 ![Japanese](https://img.shields.io/badge/Japanese-Basic-EA4335?style=for-the-badge)
 ![Hindi](https://img.shields.io/badge/Hindi-Basic-FF9933?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-Beginner-000000?style=for-the-badge)
-![French](https://img.shields.io/badge/French-Beginner-0055A4?style=for-the-badge)
-![Spanish](https://img.shields.io/badge/Spanish-Beginner-AA151B?style=for-the-badge)
-![Italian](https://img.shields.io/badge/Italian-Beginner-009246?style=for-the-badge)
 
 </div>
 
